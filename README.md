@@ -1,4 +1,4 @@
-## AboutAbout
+## About
 Experienced, disciplined and highly motivated IT professional with 20 years of experience in software development, encompassing roles as an Architect, Business / Functional Analyst and Project Manager. Extensive experience in building applications in the financial industry, cloud migration and successful background in project management. Possesses a comprehensive range of technical and soft skills, including strong analytical, problem-solving, and communication abilities, enabling effective collaboration across diverse teams. Extensive experience with functional and non-functional requirements management including user stories, ATTD framework, data structures and API design. Have hands on development experience able to implement POC or make infrastructure changes.
 
 ## Experience
