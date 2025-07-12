@@ -6,7 +6,7 @@ Experienced, disciplined and highly motivated IT professional with 20 years of e
 ### The Gym Group
 __Technical Solution Designer__
 
-_Mar 2025 - Present · 3 mosMar 2025 to Present_
+_Mar 2025 to Present_
 
 ### Aqovia
 __Technical System Analyst__
